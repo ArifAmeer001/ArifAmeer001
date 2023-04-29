@@ -17,9 +17,9 @@
 <a href="https://www.linkedin.com/in/arifameerhussain/">
 <img alt="FurqanAhmad | LinkedIN"  src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://medium.com/@arifameerhussain" target="_blank">
+<!-- <a href="https://medium.com/@arifameerhussain" target="_blank">
 <img src = "https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" alt = "Medium" />
-</a>
+</a> -->
 <a href="mailto:arifameerhussain@gmail.com">
 <img  alt="arifameerhussain@gmail.com | Email" src="https://img.shields.io/badge/gmail-%231DA1F2.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=B23121" />
 </a>
